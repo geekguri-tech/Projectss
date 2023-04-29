@@ -1,0 +1,45 @@
+body{
+    margin: 0 auto;
+}
+.plea{
+    margin: 0;
+    background-color:darkgrey;
+}
+.plead{
+    background-color: darkgray;
+}
+#firstie{
+    position:fixed;
+    background-color: grey;
+    width: 100%;
+}
+.klaser{
+    background-color:darkgrey;
+    width: 120px;
+    margin-left: -120px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius:30px;
+}
+.Guri{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.slidebar {
+    list-style: none;
+    color: black;
+    margin-top: 0px;
+    padding-left: 16px;
+}
+#kir{
+    margin: 0;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+#cro{
+    margin: 0;
+}
